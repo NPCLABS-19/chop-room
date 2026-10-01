@@ -10,7 +10,7 @@ A browser sampler with independent 16-pad MPCs, a digit-mapped sample keyboard, 
 - Space starts/stops loops; R records or overdubs
 - Export the loop as a stereo WAV
 
-Paste a YouTube link, open the video in desktop Chrome or Edge, then capture its tab audio with Share tab audio enabled. This is a manual capture flow, not an automatic YouTube downloader. Local audio files can also be loaded. Samples and loop events remain in browser memory and are cleared on reload.
+Paste a YouTube link to map its full duration to 16 pads immediately. Each pad jumps to a separate video section. Direct YouTube playback may buffer and supports one section at a time per MPC. Pitching, performance FX, and WAV export require captured audio. In desktop Chrome or Edge, use Record & chop tab with Share tab audio enabled; recording finishes automatically after 8, 16, or 32 seconds of incoming sound and trims edge silence. This is not an automatic YouTube downloader. Local audio files can also be loaded. Samples and loop events remain in browser memory and are cleared on reload.
 
 ## Develop
 
